@@ -15,10 +15,13 @@ A sleek, responsive stopwatch built using **HTML**, **CSS**, and **JavaScript**.
 - CSS3 (with Flexbox layout)
 - Vanilla JavaScript (no frameworks!)
 
-## 📸 Preview
+## 🖼️ Preview
 
-![Stopwatch Preview](<img width="1827" height="770" alt="Screenshot 2025-08-07 205039" src="https://github.com/user-attachments/assets/35c7d029-4ec7-4ac8-af1b-71fe266d79ea" />
-)
+### 🟢 Start and 🔴 Stop Button View
+![Start and Stop Preview](https://github.com/Deepikaa1102/StopWatch/blob/main/Working%20images/Start%20and%20stop.png)
+
+### 🔁 Reset Button View
+![Reset Preview](https://github.com/Deepikaa1102/StopWatch/blob/main/Working%20images/Reset.png)
 
 ## 🚀 Getting Started
 
